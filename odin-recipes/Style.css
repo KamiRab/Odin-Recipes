@@ -1,3 +1,29 @@
+body{
+    background-color: antiquewhite ;
+}
+h1{
+    color: rebeccapurple;
+    text-decoration-line: underline;
+    text-align: center;
+}
+.main{
+    padding: 10%;
+    background-color: peachpuff;
+}
+a{
+    color: black;
+}
 h2{
     color : red;
 }
+
+.half img{
+    width: 200px;
+    float: right;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+ }
+
